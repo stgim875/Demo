@@ -19,5 +19,6 @@ https://github.com/stgim875/sample_code/assets/71519636/ebe4e978-8a2f-4f83-9392-
 ### [VIRNECT Remote_Mobile UI 자동화]
 #### <코드와 내용이 변경될 수 있습니다.>
 
-https://github.com/stgim875/Demo/assets/71519636/0eccacde-53c0-4efe-acc2-0a57c66ef517
+https://github.com/stgim875/Demo/assets/71519636/b417c12c-d2d5-43fd-992e-322ae948a16c
+
 
