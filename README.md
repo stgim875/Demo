@@ -1,7 +1,7 @@
-## VIRNECT Remote(Web or Mobile) 자동화
+## VIRNECT Remote(Web or Mobile) 리그레션 테스트 자동화
 
 ### 테스트 자동화 소개 
-목적 : VIRNECT Remot를 자동화함으로써 특정 기능이 올바르게 작동하는지 확인합니다. 예를 들어, 화상 회의 기능이 모든 플랫폼에서 정상적으로 작동하는지, 화질과 음질이 품질 표준에 부합하는지 확인합니다.
+목적 : VIRNECT Remot에 대한 결함 수정 또는 신규 기능이 추가 되었을 경우, 기존 기능들이 올바르게 작동하는지 확인합니다. 예를 들어, 화상 회의 기능이 모든 플랫폼에서 정상적으로 작동하는지, 화질과 음질이 품질 표준에 부합하는지 확인합니다.
 
 사용된 개발 언어 및 프레임워크  : Python + Selenium + Appium
 - Selenium  : 4.21.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
