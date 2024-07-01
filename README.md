@@ -8,15 +8,20 @@
 - Pytest: 8.2.2 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
 - Selenium WebDriver  : 4.21.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 - Selenium Grid : 4.21.0 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-- Appium-Python-Client : v4.0.0 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white"> 
+- Appium-Python-Client : v4.0.0 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white">
+- 
 [소스 코드 관리]
-- Github : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+- Github : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  
 [CI/CD 도구]
-- Jenkins : <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
+- Jenkins : <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  
 [협업 도구]
-- Salck : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
+- Salck : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  
 [프로젝트 관리]
-- Jira : <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
+- Jira : <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+  
 
 ### [VIRNECT Remote_Web UI 자동화]
 #### <코드와 내용이 변경될 수 있습니다.>
