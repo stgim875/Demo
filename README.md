@@ -9,7 +9,6 @@
 - Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 - Pytest: 8.2.2 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
 - Selenium Grid : 4.21.0
-- 
 
 
 ### [VIRNECT Remote_Web UI 자동화]
