@@ -5,10 +5,10 @@
 
 사용된 개발 언어 및 프레임워크  : Python + Selenium + Appium
 - Selenium  : 4.21.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+- Selenium Grid : 4.21.0 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 - Appium-Python-Client : v4.0.0 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white">
 - Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 - Pytest: 8.2.2 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
-- Selenium Grid : 4.21.0
 - Jenkins <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 - Github <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
