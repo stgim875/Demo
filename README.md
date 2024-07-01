@@ -3,12 +3,12 @@
 ### 테스트 자동화 소개 
 목적 : VIRNECT Remot에 대한 결함 수정 또는 신규 기능이 추가 되었을 경우, 기존 기능들이 올바르게 작동하는지 확인합니다. 예를 들어, 화상 회의 기능이 모든 플랫폼에서 정상적으로 작동하는지, 화질과 음질이 품질 표준에 부합하는지 확인합니다.
 
-사용된 개발 언어 및 프레임워크  : Python + Selenium + Appium
+사용된 개발 언어 및 프레임워크
+- Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- Pytest: 8.2.2 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
 - Selenium WebDriver  : 4.21.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 - Selenium Grid : 4.21.0 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 - Appium-Python-Client : v4.0.0 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white">
-- Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-- Pytest: 8.2.2 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
 - Github : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 - Jenkins : <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 - Salck : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
