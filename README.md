@@ -26,10 +26,13 @@ https://github.com/stgim875/Demo/assets/71519636/21803471-d29a-4634-a365-9185f1c
 
 ### [참고 자료]
 
+[Selenium 공식 홈페이지]
 https://www.selenium.dev 
 
+[Appium 공식 홈페이지]
 https://appium.io/docs/en/latest 
 
+[우아한형제들 기술블로그]
 https://techblog.woowahan.com/2658 
 
 https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data
