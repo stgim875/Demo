@@ -25,6 +25,7 @@ https://github.com/stgim875/sample_code/assets/71519636/ebe4e978-8a2f-4f83-9392-
 https://github.com/stgim875/Demo/assets/71519636/21803471-d29a-4634-a365-9185f1c72915
 
 ### [참고 자료]
+
 https://www.selenium.dev/
 https://appium.io/docs/en/latest/
 https://techblog.woowahan.com/2658/
