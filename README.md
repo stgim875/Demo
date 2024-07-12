@@ -35,6 +35,8 @@ https://appium.io/docs/en/latest
 [우아한형제들 기술블로그]
 https://techblog.woowahan.com/2658 
 
+[라인 기술블로그]
 https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data
 
+[카카오페이 기술블로그]
 https://tech.kakaopay.com/post/ifkakao2022-mobile-automation-test-monitoring/
