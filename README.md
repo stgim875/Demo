@@ -24,4 +24,7 @@ https://github.com/stgim875/sample_code/assets/71519636/ebe4e978-8a2f-4f83-9392-
 
 https://github.com/stgim875/Demo/assets/71519636/21803471-d29a-4634-a365-9185f1c72915
 
-### [참고 문헌 및 자료 출처]
+### [참고 자료]
+#### https://techblog.woowahan.com/2658/
+#### https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data
+#### https://tech.kakaopay.com/post/ifkakao2022-mobile-automation-test-monitoring/
