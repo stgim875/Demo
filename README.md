@@ -20,6 +20,16 @@
 | **login.py** | Remote Web 로그인 화면에서 아이디/비밀번호 입력 및 로그인 동작을 수행하는 페이지 객체 |
 | **privacy.py** | 개인정보 처리방침 관련 UI 요소 확인 및 이벤트 검증을 수행하는 페이지 객체 |
 
+## 🧪 Test Script 파일 소개
+
+| 파일명 | 설명 |
+|------|-----|
+| **RWeb_Login_Test_1.py** | Remote Web 로그인 성공 여부를 검증하는 기본 로그인 시나리오 테스트 |
+| **RWeb_Header_Test_2.py** | Remote Web 헤더 UI 요소 정상 표시 및 동작 검증 테스트 |
+| **RMobileAOS_FirstScreen_Test_3.py** | Android 앱 첫 화면 초기 요소 및 진입 동작 검증 테스트 |
+| **RMobileAOS_Login_Test_2.py** | 모바일 로그인 기능 동작 확인 및 예외 처리 검증 테스트 |
+| **RMobileAOS_Permission_Test_1.py** | 앱 실행 후 권한 허용 팝업 정상 처리 여부 테스트 |
+
 **[개발 언어 및 도구]**
 - Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 - Pytest: 8.3.4 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
